@@ -135,3 +135,4 @@ ___
 Documentation for Expressif's ESP-32 development environment can be found here: [ESP-IDF Programming Guide](http://esp-idf.readthedocs.io/en/latest/index.html).
 
 Instructions for building and incorporating OpenWeave into a new ESP32 project can be found here: [Building OpenWeave for the ESP32](https://stash.nestlabs.com/projects/PLATFORM/repos/weave/browse/BUILDING-ESP32.md?at=refs%2Fheads%2Ffeature%2Fblue-sky-openweave).
+
